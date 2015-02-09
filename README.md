@@ -24,4 +24,6 @@ bosewave 8 3 <br />
 ronaldo 5 4 <br />
 vaso 9 6 <br />
 
+The Output of this example is 42 which is the best amount os values in 20 KG of capacity.
+
 
