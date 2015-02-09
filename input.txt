@@ -1,0 +1,7 @@
+20
+5
+anel 15 1
+picasso 10 9
+bosewave 8 3
+ronaldo 5 4
+vaso 9 6
